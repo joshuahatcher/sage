@@ -1,0 +1,11 @@
+{
+  "name": "sage",
+  "version": "1.0.0",
+  "description": "A tool for determining the authenticity of news headlines via Google custom search and Snopes",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joshua Hatcher",
+  "license": "MIT"
+}
